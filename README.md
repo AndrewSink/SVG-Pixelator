@@ -1,4 +1,7 @@
 # SVG-Pixelator
+
+Try it yourself: https://andrewsink.github.io/SVG-Pixelator/
+
 I've been experimenting with the [p5.js SVG renderer](https://github.com/zenozeng/p5.js-svg) and made this tool to convert an image into an SVG canvas. 
 
 Input
