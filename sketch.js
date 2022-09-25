@@ -8,7 +8,7 @@ let startx = 0 // starting x coordinate
 let starty = 0 // starting y coordinate
 let colorBoolean = true
 let elementOutline = false
-let squareElement = true
+let squareElement = false
 
 function preload() {
     img = loadImage('cat_clean.jpg'); // preloads a picture
